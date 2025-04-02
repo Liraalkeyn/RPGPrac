@@ -1,0 +1,15 @@
+/workspaces/RPGPrac/bin/Debug/net8.0/RPGPrac
+/workspaces/RPGPrac/bin/Debug/net8.0/RPGPrac.deps.json
+/workspaces/RPGPrac/bin/Debug/net8.0/RPGPrac.runtimeconfig.json
+/workspaces/RPGPrac/bin/Debug/net8.0/RPGPrac.dll
+/workspaces/RPGPrac/bin/Debug/net8.0/RPGPrac.pdb
+/workspaces/RPGPrac/obj/Debug/net8.0/RPGPrac.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/RPGPrac/obj/Debug/net8.0/RPGPrac.AssemblyInfoInputs.cache
+/workspaces/RPGPrac/obj/Debug/net8.0/RPGPrac.AssemblyInfo.cs
+/workspaces/RPGPrac/obj/Debug/net8.0/RPGPrac.csproj.CoreCompileInputs.cache
+/workspaces/RPGPrac/obj/Debug/net8.0/RPGPrac.sourcelink.json
+/workspaces/RPGPrac/obj/Debug/net8.0/RPGPrac.dll
+/workspaces/RPGPrac/obj/Debug/net8.0/refint/RPGPrac.dll
+/workspaces/RPGPrac/obj/Debug/net8.0/RPGPrac.pdb
+/workspaces/RPGPrac/obj/Debug/net8.0/RPGPrac.genruntimeconfig.cache
+/workspaces/RPGPrac/obj/Debug/net8.0/ref/RPGPrac.dll
